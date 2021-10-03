@@ -1,0 +1,19 @@
+{
+  "name": "baul-del-buho",
+  "version": "1.0.0",
+  "description": "Proyecto del tercer ciclo de MisiónTIC 2022 Universidad Tecnológica de Pereira\r Grupo 3",
+  "main": "Functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baul-del-Buho/Baul-del-Buho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baul-del-Buho/Baul-del-Buho/issues"
+  },
+  "homepage": "https://github.com/Baul-del-Buho/Baul-del-Buho#readme"
+}

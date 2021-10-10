@@ -132,11 +132,24 @@ body{
     text-decoration: none;
     padding:12px 12px;
 }
-#banner{
-    align-items: center;
-    justify-content: center;
+.nav-item:hover{
+    color:yellow;
+    background-color: rgb(88, 10, 161));
 }
 
-#banner-img{
-    max-width:100%;
+.carousel-item{
+    height:32rem;
+    background:#777 ;
+    /*background-image: url(/img/banner.jfif);*/
+    color:black;
+    justify-content: center;
+}
+.carou-container{
+    position:absolute;
+    bottom:0;
+    left:0;
+     right: 0;
+    padding-bottom:50px;
+    padding-left: 100px;
+    justify-content: center;
 }

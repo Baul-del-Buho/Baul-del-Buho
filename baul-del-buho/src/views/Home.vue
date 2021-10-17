@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <main>
+    <main class="main">
     <!--Carrusel-->
         <div id="theCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -83,14 +83,14 @@
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+/*import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    HelloWorld,
   }
-}
+}*/
 </script>
 
 <style scoped>

@@ -1,30 +1,328 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <div class="page-container">
+        <nav class="nav">
+            <div class="nav__border"></div>
+        <collapsible-nav/>
+    </nav>
+    <main class="main">
+      <header class="container-lg header-section"/>
+      <div class="row align-items-center header-container">
+        <the-navigation/>
+      </div>
+      <router-view/>
+      </main>
   </div>
-  <router-view/>
 </template>
 
+<script>
+import TheNavigation from './components/TheNavigation.vue';
+import CollapsibleNav from './components/CollapsibleNav.vue';
+export default {
+  components: { 
+    TheNavigation,
+    CollapsibleNav
+    },
+  
+}
+
+</script>
+
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+*{
+    font-style:sans-serif;
 }
 
-#nav {
-  padding: 30px;
+body{
+    max-width:100%;
+    --color-primary : #009579;
+    --color-primary-dark : #007f67;
+    --color-secondary : #252c6a;
+    --color-error : #cc3333;
+    --color-success : #4bb544;
+    --border-radius : 4px;
+}
+.nav-container{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content:space-around;
+}
+.perks-container{
+    display:flex;
+    flex-flow: row wrap;
+}
+.perk{
+    max-width: 330px;
+    min-width: 200px;
+    text-align: center;
+    border:5px black;
+    margin:1em ;
+    padding:10px;
+
 }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+#top-published{
+    background-color:darkblue;
+    color:white;
+    padding: 20px 20px;
+    
+}
+:root{
+    --nav-icon-width: 50px;
+    --nav-border-width: 8px;
+}
+html,
+body{
+    width:100%;
+    height:100%;
+    margin:0;
+    font-family: sans-serif;
+}
+.nav__link{
+    display:flex;
+    align-items:center;
+    color:rgba(0,0,100,0.75);
+    text-decoration: none;
+}
+.nav__link:hover{
+    background-color: lightgray;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+.nav__icon-container{
+    width:var(--nav-icon-width);
+    height:var(--nav-icon-width);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
 }
+
+.nav__label{
+    white-space: nowrap;
+}
+
+.nav__border{
+    position:absolute;
+    left:100%;
+    top:0;
+    width: var(--nav-border-width);
+    height:100%;
+    background-color: rgb(150,150,150);
+    transition: background-color 0.2s;
+    cursor:ew-resize;
+}
+.nav__border:hover{
+    background-color: rgb(100,100,100);
+}
+
+.page-container{
+    height:inherit;
+    display:flex;
+}
+
+/*Cuerpo de principal de la página*/
+.main{
+    width:100%;
+    height:inherit;
+    padding:0;
+    padding-left: var(--nav-border-width);
+    overflow-y: auto;
+}
+
+/*Barra de navegación desplegable*/
+.nav{
+    display:inline-block;
+    width: 200px;
+    height:inherit;
+    position: relative;
+    background-color: rgb(240,240,250);
+    transition:width 0.2s;
+    flex-shrink: 0;
+}
+.nav--collapsed{
+    width: var(--nav-icon-width);
+
+}
+.nav--collapsed .nav__label{
+    display:none;
+}
+/*Barra de Navegación principal*/
+.nav-bar{
+    align-content: center;
+    
+}
+.row{
+    display:flex;
+    justify-content:space-between;
+    align-content: center;
+    flex-flow:row wrap;
+    background-color: blueviolet;
+    padding: 20px;
+    
+}
+#title{
+    width:500px;
+    height:50px;
+    color:gold;
+}
+.nav-item{
+    width:100px;
+    align-content: center;
+    color:gold;
+    text-decoration: none;
+    padding:12px 12px;
+}
+.nav-item:hover{
+    color:yellow;
+    background-color: rgb(88, 10, 161);
+}
+
+/*clases del carrusel*/
+.carousel-item{
+    height:32rem;
+    background:#777 ;
+    /*background-image: url(/img/banner.jfif);*/
+    color:black;
+    justify-content: center;
+}
+.carou-container{
+    position:absolute;
+    bottom:0;
+    left:0;
+     right: 0;
+    padding-bottom:50px;
+    padding-left: 100px;
+    justify-content: center;
+}
+
+#login-body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: 18px;
+    background:url(/img/banner.jfif);
+ 
+    background-size: cover;
+}
+
+#login.form__login{
+    width: 400px;
+    max-width: 400px;
+    display:block;
+    align-content: center;
+    justify-content: center;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow:0 0 40px rgba(0,0,0,0.2);
+    border-radius:var(--border-radius);
+    background:#ffffff;
+}
+
+#createAccount.form__create{
+    width: 400px;
+    max-width: 400px;
+    display:block;
+    align-content: center;
+    justify-content: center;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow:0 0 40px rgba(0,0,0,0.2);
+    border-radius:var(--border-radius);
+    background:#ffffff;
+}
+
+.form__input,
+.form__button{
+    font: 500 1rem 'Quicksand', sans-serif;
+}
+
+.form--hidden{
+    display: none;
+}
+
+.form > *:first-child{
+    margin-top: 0;
+}
+
+.form > *:last-child{
+    margin-bottom: 0;
+}
+
+.form__title{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.form__message{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.form__message--success{
+    color:var(--color-success);
+}
+.form__message--error{
+    color:var(--color-error);
+}
+.form__input-group{
+    margin-bottom:1rem;
+    
+}
+.form__input{
+    display:block;
+    width:100%;
+    padding: 0.75rem;
+    box-sizing: border-box;
+    border-radius: var(--border-radius);
+    border: 1px solid #dddddd;
+    outline:none;
+    background:#eeeeee;
+    transition: background 0.2s, border-color 0.2s;
+}
+.form__input:focus{
+    border-color:var(--color-primary);
+    background: #ffffff;
+}
+.form__input--error{
+    color:var(--color-error);
+    border-color:var(--color-error);
+}
+.form__input-error-message{
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--color-error);
+}
+.form__button{
+    width: 100%;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #ffffff;
+    border: none;
+    border-radius: var(--border-radius);
+    outline: none;
+    cursor: pointer;
+    background: var(--color-primary);
+}
+
+.form__button:hover{
+    background: var(--color-primary-dark);
+}
+
+.form__button:active{
+    transform:scale(0.98);
+}
+
+.form__text{
+    text-align: center;
+}
+.form__link{
+    color:var(--color-secondary);
+    text-decoration: none;
+    cursor:pointer;
+}
+.form__link:hover{
+    text-decoration: underline;
+}
+
 </style>

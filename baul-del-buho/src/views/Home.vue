@@ -1,4 +1,5 @@
 <template>
+  
   <div class="home">
     <main class="main">
     <!--Carrusel-->
@@ -79,6 +80,7 @@
             <h3></h3>
         </footer>
         </div>
+  
 </template>
 
 <script>

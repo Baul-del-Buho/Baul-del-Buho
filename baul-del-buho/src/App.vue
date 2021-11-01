@@ -2,7 +2,7 @@
   <div class="page-container">
         <nav class="nav">
             <div class="nav__border"></div>
-        <collapsible-nav/>
+        <!--collapsible-nav/-->
     </nav>
     <main class="main">
       <header class="container-lg header-section"/>
@@ -16,11 +16,11 @@
 
 <script>
 import TheNavigation from './components/TheNavigation.vue';
-import CollapsibleNav from './components/CollapsibleNav.vue';
+//import CollapsibleNav from './components/CollapsibleNav.vue';
 export default {
   components: { 
     TheNavigation,
-    CollapsibleNav
+    //CollapsibleNav
     },
   
 }
@@ -129,7 +129,7 @@ body{
     overflow-y: auto;
 }
 
-/*Barra de navegación desplegable*/
+/*Barra de navegación desplegable
 .nav{
     display:inline-block;
     width: 200px;
@@ -145,7 +145,7 @@ body{
 }
 .nav--collapsed .nav__label{
     display:none;
-}
+}*/
 /*Barra de Navegación principal*/
 .nav-bar{
     align-content: center;
@@ -167,6 +167,7 @@ body{
 }
 .nav-item{
     width:100px;
+    max-height: 90px;
     align-content: center;
     color:gold;
     text-decoration: none;
@@ -325,4 +326,47 @@ body{
     text-decoration: underline;
 }
 
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 375px) { 
+    #nav-cont{
+        max-height: 230px;
+    }
+    #title{
+       max-width: 250px;
+       height: auto;
+       
+
+    }
+    .nav-item{
+        font-size: 75%;
+        max-height: auto;
+        max-width:100px;
+    }
+ }
+ @media (min-width: 768px) { 
+    #nav-cont{
+        max-height: 150px;
+    }
+    #title{
+       max-width: 900px;
+    }
+    .nav-item{
+        max-height: auto;
+        font-size: 90%;
+        padding:0.3rem;
+    }
+ }
+ @media (min-width: 1200px) { 
+    #nav-cont{
+        max-height: 130px;
+    }
+    .nav-item{
+        font-size: 100%;
+        height:100px;
+    }
+    #title{
+       max-width: 500px;
+    }
+    
+ }
 </style>

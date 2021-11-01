@@ -1,8 +1,8 @@
 <template>
-     <body class="container">
+     <div class="container">
 
     <header>
-        <h1>Proyectos Disponibles</h1>
+        <h1>{{titulo}}</h1>
     </header>
     <main>
 
@@ -20,10 +20,29 @@
     </main>
     
     
-</body>
+</div>
 </template>
 <script>
-
+export default{
+	name : 'Proyectos',
+	data(){
+		return{
+			proyecto:'Proyectos disponibles',
+			categoria : 'Arduino'
+		}
+	},
+	methods:{
+		
+	},
+	computed:{
+		titulo(){
+			return this.proyecto + ' ' + 'Categoría:' + ' ' + this.categoria;
+		}
+	},
+	created(){
+		
+	}
+}
 </script>
 <style scoped>
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');

@@ -1,4 +1,5 @@
 <template>
+  
   <div class="about">
    <h2>Conozca al equipo</h2>
         <br>
@@ -32,11 +33,12 @@
         
         </div>
   </div>
+  
 </template>
 <style scoped>
 h2{
     text-align:center;
-    font-size: 30px;
+    font-size: 2em;
 }
 
 .container-main{
@@ -100,5 +102,18 @@ a{
     color:white;
     text-decoration: none;
 }
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 375px) { 
+    .column{
+        width:100%;
+    }
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .column{
+        width:50%;
+    }
+ }
 
 </style>

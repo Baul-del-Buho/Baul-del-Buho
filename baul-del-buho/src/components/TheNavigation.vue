@@ -1,7 +1,7 @@
 <template>
  <router-view>
         <header class="container-lg header-section"/>
-            <div class="row align-items-center header-container">
+            <div id="nav-cont" class="row align-items-center header-container">
     <div id="nav">
     
     <div class="row align-items-center header-container">
@@ -42,6 +42,9 @@ export default {
     padding: 20px;
     
 }
+#nav-cont{
+  max-height: 120px;
+}
 #title{
     width:500px;
     height:50px;
@@ -49,6 +52,7 @@ export default {
 }
 .nav-item{
     width:100px;
+    max-height: 100px;
     align-content: center;
     color:gold;
     text-decoration: none;

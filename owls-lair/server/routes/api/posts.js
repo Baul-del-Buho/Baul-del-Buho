@@ -30,7 +30,7 @@ router.delete('/:id', async (req, res) =>{
 
 async function loadPostsCollection(){
     const client = await mongodb.MongoClient.connect
-    ('mongodb://OwlKing:uSMASLEmjRLLX0G5@owlwarehouse.7vnvt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
+    ('', {
         useNewUrlParser: true
     });
     return client.db('owkwarehouse').collection('posts');

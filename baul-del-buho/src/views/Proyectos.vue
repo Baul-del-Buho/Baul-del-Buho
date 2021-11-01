@@ -15,7 +15,7 @@
                 <button class="btn btn-warning" id="get_meal">Get Meal 🍔</button>
                 
             </div>
-            <div id="meal" class="row meal"></div>
+            <div id="meal" class="row meal">{{proyect-content}}</div>
         </div>
     </main>
     

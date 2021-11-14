@@ -5,9 +5,65 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding:50px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.card-container{
+  display:flex;
+}
+
+.user-card {
+  width: 400px;
+  border: 1px dotted lightcoral;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.user-avatar{
+  text-align: center;
+  
+}
+
+.user-avatar__image{
+  border-radius: 50%;
+}
+
+.user-info{
+  padding:10px;
+}
+
+.user-info__name{
+  text-align: center;
+}
+
+.welcome-container{
+  display:flex;
+    justify-content:space-between;
+    align-content: center;
+    flex-flow:row wrap;
+    background-color: blueviolet;
+    padding: 20px;
+    color:gold;
+    border: 1px solid black;
+}  
+
+hr{
+  color:#eeee;
+}
+
+/*------Test------*/
+.button-container{
+ color: black;
+ background-color: white;
+}
+
+.button-container-dark{
+  color: white;
+  background-color: black;
 }

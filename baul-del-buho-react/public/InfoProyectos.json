@@ -1,0 +1,17 @@
+[
+        {
+            "id":"1",
+            "img":"jabonAfeitar.png",
+            "titulo": "Como hacer jabón para afeitar",
+            "autor": "lesPtitesMain",
+            "link": "/"
+        },
+        {
+            "id":"2",
+            "img":"jabonAfeitar.png",
+            "titulo": "Como hacer jabón para afeitar 2",
+            "autor": "lesPtitesMain2",
+            "link": "/"
+        }
+    
+]

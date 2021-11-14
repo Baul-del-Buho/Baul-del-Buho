@@ -1,15 +1,25 @@
 import React from 'react';
 import {
-    BrowserRouter as Router
+    BrowserRouter as Router,
+    Routes,
+    Route
 } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Carrusel from './components/Carrusel';
+import Footer from "./components/Footer";
+import Principal  from './Principal';
+import Proyectos from './Proyectos';
 
 function App () {
     return (
         <Router>
             <Navbar />
-            <Carrusel />
+
+            <Routes>
+                <Route path="/" element={<Principal />} />
+                <Route path="/proyectos" element={<Proyectos />} />
+            </Routes>
+
+            <Footer />
         </Router>
     )
 }

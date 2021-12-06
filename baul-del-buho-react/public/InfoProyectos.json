@@ -2,16 +2,80 @@
         {
             "id":"1",
             "img":"jabonAfeitar.png",
+            "img2":"jabonAfeitar2pequeno.jpg",
+            "img3":"jabonAfeitar3pequeno.png",
+            "imgprofile":"imgprofile.png",
             "titulo": "Como hacer jabón para afeitar",
             "autor": "lesPtitesMain",
-            "link": "/"
+            "parrafos":[ "¡Un proyecto para crear fácil y rápidamente tu propio jabón de afeitar! ¡Una forma de afeitar ecológica, económica y agradable!",
+            "Tiempos estimados de preparación: alrededor de 15 minutos",
+            "Es un buen proyecto si ya tiene suministros para hacer jabón y quiere probar algo nuevo. ¡Pero también es muy fácil si nunca antes has hecho jabón! Puede servir como un regalo hecho a mano muy genial para el día del padre o como regalo de Navidad."
+            ],
+            "ingredientes": ["100 gramos de jabón de glicerina",
+                "30 gramos de tensioactivo. Yo uso tensioactivo SCI, pero probablemente otros funcionen.",
+                "3 gramos de aceite de ricino",
+                "unas gotas perfumantes (opcional)",
+                "dos ollas para hacer un baño maría",
+                "espátula",
+                "medidor",
+                "receptáculo para su jabón de afeitar"
+            ],
+            "pasos": ["1. Prepara y pesa los ingredientes: 100g de jabón de glicerina, 30g de tensioactivo, 3g de aceite de ricino",
+                "2. Prepara el baño Maria: Llena la mitad de la olla grande con agua. Coloque la olla pequeña para que flote en el agua. Enciende el fuego.",
+                "3. Derrite jabón de glicerina y surfactante y agrégalo a la olla: Espera al menos 10 minutos para que se convierta en una mezcla uniforme",
+                "4. Agrega el aceite de ricino: Mezcle hasta obtener una mezcla homogenea y retire del fuego.",
+                "5. Déjalo secar por un día y listo, ¡Ya tienes tu jabón casero!"
+            ]
         },
         {
             "id":"2",
-            "img":"jabonAfeitar.png",
-            "titulo": "Como hacer jabón para afeitar 2",
-            "autor": "lesPtitesMain2",
-            "link": "/"
+            "img":"pintura1.jpg",
+            "img2":"pintura2.jpg",
+            "img3":"pintura3.jpg",
+            "imgprofile":"imgprofile2.jpg",
+            "titulo": "Pintura de flujo libre",
+            "autor": "ZEA 2300",
+            "parrafos":[ "¡Esta es una forma única y divertida de pintar! Incluso si arruinas algo, todo lo que tienes que hacer es inclinar el lienzo [mientras aún está húmedo] y ¡puf! ¡está arreglado! Lo que más me gusta de esta pintura es cómo todos se verán diferentes, no importa cuántas veces lo hagas, ¡siempre será diferente y único!"
+                ],
+                "ingredientes": ["Lienzo grande",
+                    "1-2 estropajos metálicos",
+                    "Al menos 5 colores diferentes de pintura.",
+                    "Pintura negra",
+                    "Pincel o cuchillo para pintar"
+                ],
+                "pasos": ["1. Pintar el lienzo de negro: Vierta un poco de pintura negra en el lienzo y use el pincel o la espátula para esparcir la pintura negra por todo el lienzo. Cubre también los bordes del lienzo con pintura negra. No dejes que la pintura negra se seque.",
+                    "2. Verter pintura sobre el estropajo metálico:Coloque los estropajos metalicos en el centro del lienzo. Vierta la pintura de diferentes colores. Trate de formar patrones de colores y cubra por todo el lienzo.",
+                    "3. Haciendo un hermoso diseño: Su fregadora de metal comenzará a acumular un poco de pintura en el centro, así que recójala y deje que un poco de pintura gotee. Coloque el scubbie nuevamente en el centro e incline el lienzo en diferentes direcciones. La pintura goteará por los bordes del lienzo. Vuelva a recoger el estropajo y deje que la pintura gotee. Incline el lienzo un poco más, hasta que toda la pintura de color haya cubierto todas las partes negras.",
+                    "4. ¡Tiempo de secado!: Coloque el lienzo en un lugar seguro durante 24-36 horas o hasta que esté completamente seco."
+                ]
+            
+        },
+        {
+            "id":"3",
+            "img":"pinturaespacio.jpg",
+            "img2":"pinturaespacio2.jpg",
+            "img3":"pinturaespacio3.jpg",
+            "imgprofile":"imgprofile3.jpg",
+            "titulo": "Pintura de flujo libre",
+            "autor": "ZEA 2300",
+            "parrafos":[ "Si hay algo que me encanta, son los ingeniosos efectos de pintura.",
+                "Recientemente, comencé a agregar acentos que brillan en la oscuridad a mis pinturas, particularmente las pinturas que cuelgan en las guarderías o las regalan a familias con niños pequeños, y ESPECIALMENTE las pinturas que involucran el espacio. ¡Tanto los niños como los adultos se sorprenden cuando ven el cuadro brillar después de que las luces se apagan por la noche!",
+                "Este instructivo lo guiará a través del proceso que utilicé para crear mi última pieza que brilla en la oscuridad, una escena de espacio simple en blanco y negro ... con un efecto especial y simple de brillo en la oscuridad agregado."
+                ],
+                "ingredientes": ["Un lápiz para dibujar (no se muestra en la foto)",
+                    "Una goma de borrar para dibujar (sin foto)",
+                    "Bonito papel de arte (¡en la foto!)",
+                    "Al menos 1 color de pintura acrílica (solo usé acrílico negro, no en la foto)",
+                    "Pintura acrílica que brilla en la oscuridad (¡en la imagen!)",
+                    "Pinceles de preferencia (sin imagen)",
+                    "Luz negra (opcional; no se muestra en la imagen; ¡la hace fluorescente como la imagen del título!)"
+                ],
+                "pasos": ["1. Dibuja tu escena espacial: toma tu bonito papel, tu fiel lápiz y tu mejor amigo, el borrador y dibuja tu escena. Usé un modelo de cohete que tenía por ahí para modelar mi cohete, ¡pero puedes dibujar el estilo que quieras! Creé profundidad en esta pintura agregando diferentes cosas espaciales. Planetas aquí, lunas allá. Asteroides, galaxias, etc. Agregarlos por todas partes y superponerlos ocasionalmente ayuda a crear gran parte del aspecto una vez que comenzamos a pintar. También agregué un sol brillante como una estrella en la esquina, para que el cohete se alejara. ¡Esto nos ayuda a darnos un punto de sombreado de iluminación como referencia cuando estamos pintando! Puedes condimentar estos detalles donde quieras.",
+                    "2. Bloquear el negro: Con un pincel SECO, bloquee todas las áreas no bosquejadas de la pintura con pintura acrílica. Usé negro, pero cualquier color espacial puede funcionar. Recomiendo hacer todas las áreas negativas en esta pintura de un solo color oscuro, sólido. Esta foto se tomó parcialmente agregando los bloques de color al fondo: comencé con un pincel de 1 pulgada y cambié a un pincel de detalle más pequeño para obtener los bordes alrededor del cohete, los planetas, las lunas, etc., para poder tener bordes limpios y nítidos.",
+                    "3. Sombreado y pequeños detalles: Ahora, con un pincel húmedo, use la pintura del mismo color para sombrear cuidadosamente todas las piezas espaciales individuales. Si tenía un sol en su imagen, esto lo hace fácil ya que tiene un gran punto de referencia de dónde proviene la iluminación. Dejé secar los detalles y volví una hora más tarde para agregar algunos más. Esto ayudó a evitar que cada capa de pintura se mezclara y permitió lograr un nivel increíble de profundidad y brillo con solo usar un color.",
+                    "4. ¡Haz que brille !: Con un pincel SECO, repasa tu pintura y aplica brillo en la pintura oscura sobre las áreas más brillantes y sobre cualquier característica de espacio pequeño que quieras resaltar. Este es mi paso favorito y me gusta hacerlo en ráfagas, como el primer paso. Una hora más tarde, ¡quizás encuentres un nuevo planeta que quieras que brille! La primera imagen muestra la pintura a la luz con la pintura que brilla en la oscuridad en la parte superior; es prácticamente invisible, pero no del todo, en la iluminación de una habitación promedio. La segunda imagen lo muestra brillando en completa oscuridad, pero las cámaras nunca parecen capturar toda la gloria de las creaciones que brillan en la oscuridad. ¡Brilla mucho más en persona! ¡La tercera imagen muestra la pintura bajo luz negra! Esto revela todos los detalles de la pintura, incluido el sombreado, y los objetos espaciales más sutiles, como los asteroides que flotan mucho más allá del cohete. Como la pintura en sí es muy oscura, puede agregar algunos aspectos sorpresa que el área solo se revela cuando se apagan las luces. Para esta pintura, la galaxia inferior se vuelve MUCHO maldita, y puedes ver las llamas saliendo del cohete ... pero solo cuando las luces se apagan."
+                ]
+            
         }
     
 ]

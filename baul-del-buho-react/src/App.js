@@ -8,6 +8,7 @@ import Navbar from './components/Navbar';
 import Footer from "./components/Footer";
 import Principal  from './Principal';
 import Proyectos from './Proyectos';
+import DetalleProyectos from './components/DetalleProyectos';
 
 function App () {
     return (
@@ -16,7 +17,8 @@ function App () {
 
             <Routes>
                 <Route path="/" element={<Principal />} />
-                <Route path="/proyectos" element={<Proyectos />} />
+                <Route exact path="/proyectos" element={<Proyectos />} />
+                <Route exact path="/proyectos/:id" element={<DetalleProyectos />} />
             </Routes>
 
             <Footer />

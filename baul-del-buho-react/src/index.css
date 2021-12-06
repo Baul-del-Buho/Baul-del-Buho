@@ -122,3 +122,43 @@ footer a:hover {
   outline: inherit;
   color: inherit;
 }
+
+.images{
+  position: center;
+  padding: 10px;
+}
+
+.tarjeta_autor{
+  overflow: hidden;
+}
+
+.estilo_autor{
+  text-align: right;
+  padding-top: 110px;
+  
+}
+
+.titulo{
+  color:#555454;
+  text-align: center;
+  margin: 20px;
+}
+
+.boton_pdf{
+  width: 150px;
+  height: 50px;
+  text-align: right;
+  position:relative ; left: 80%;
+
+}
+
+.icon_pdf{
+  color: red;
+}
+
+.contenedor_descripcion{
+  font-size: larger;
+  padding-left: 50px;
+  
+
+}

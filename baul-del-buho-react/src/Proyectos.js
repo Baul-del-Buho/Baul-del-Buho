@@ -28,8 +28,8 @@ function Proyectos () {
         <div className="cards">
             <CardGroup>
                 {proyectos.map(item => (
-                <Card key={item.id}>
-                    <Link to={item.link} className="Links">
+                <Card key={item.id} className="tarjeta_autor">
+                    <Link to={`/proyectos/${item.id}`} className="Links">
                     <CardBody>
                         <img src={`${process.env.PUBLIC_URL}/img/${item.img}`} alt="{item.nombre} Imagen" />
                         <CardTitle tag="h2">

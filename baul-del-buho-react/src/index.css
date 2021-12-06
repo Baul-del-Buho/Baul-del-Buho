@@ -113,7 +113,8 @@ footer a:hover {
 }
 
 .cards {
-  margin: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -130,6 +131,8 @@ footer a:hover {
 
 .tarjeta_autor{
   overflow: hidden;
+  margin:10px;
+  justify-content: center;
 }
 
 .estilo_autor{
@@ -161,4 +164,8 @@ footer a:hover {
   padding-left: 50px;
   
 
+}
+
+.breadcrumb{
+  margin: 10px;
 }

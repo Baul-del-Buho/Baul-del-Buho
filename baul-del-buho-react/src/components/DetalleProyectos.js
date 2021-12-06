@@ -2,12 +2,13 @@ import React, {useEffect, useState} from "react";
 import { useParams } from "react-router";
 import {Container, Row, Col, Button} from 'react-bootstrap';
 import {
-	Card, CardBody,
+	Card, CardBody, Breadcrumb, BreadcrumbItem
 } from "reactstrap";
 import '../index.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 //Esta es para icono estaticos fa
 import {faFilePdf} from '@fortawesome/free-solid-svg-icons';
+import {Link} from 'react-router-dom';
 
 function useProyectos () {
     const [proyectos, setProyectos] = useState([]);
@@ -37,6 +38,15 @@ const DetalleProyectos = () => {
            <Container>
                 {proyectos.filter(proyecto => proyecto.id===`${id}`).map(filteredProyecto => (
                     <Container>
+                        <Breadcrumb> 
+                            <BreadcrumbItem>
+                                <Link to={`/`} className="Links">Home</Link>
+                            </BreadcrumbItem>
+                            <BreadcrumbItem>
+                                <Link to={`/proyectos`} className="Links">Proyectos</Link>
+                            </BreadcrumbItem>
+                            <BreadcrumbItem active>{filteredProyecto.titulo}</BreadcrumbItem>
+                        </Breadcrumb>
                         <h2 className="titulo">{filteredProyecto.titulo}</h2>
                         <Button className="boton_pdf" variant="outline-secondary" onClick={() => print()}>
                             <FontAwesomeIcon className="icon_pdf" icon={faFilePdf}/>
@@ -50,7 +60,7 @@ const DetalleProyectos = () => {
                                 <img src={`${process.env.PUBLIC_URL}/img/${filteredProyecto.img3}`} alt="{item.nombre} Imagen" />
                             </Col>
                         </Row>
-                        <Card className="tarjeta_autor">
+                        <Card border="secondary" className="tarjeta_autor">
                             <CardBody>
                                 <Row>
                                     <Col>
@@ -64,6 +74,7 @@ const DetalleProyectos = () => {
                                 </Row>
                             </CardBody>
                         </Card>
+                        
                         <Container className="contenedor_descripcion">
                             <Container>
                                 {filteredProyecto.parrafos.map((parrafo) => (

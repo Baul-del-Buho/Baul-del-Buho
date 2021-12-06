@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "img": "/img/jabonAfeitar.jpeg",
+    "titulo": "Como hacer jabón para afeitar",
+    "autor": "lesPtitesMain",
+    "link": "/",
+    "categoría": " ",
+    "dificultad": " ",
+    "descripcion": " "
+  },
+  {
+    "id": "2",
+    "img": "/img/jabonAfeitar.jpeg",
+    "titulo": "Como hacer jabón para afeitar 2",
+    "autor": "lesPtitesMain2",
+    "link": "/",
+    "categoría": " ",
+    "dificultad": " ",
+    "descripcion": " "
+  },
+  {
+    "id": "3",
+    "img": "/img/Estuche1.jpg",
+    "titulo": "Estuche casero para marco de bicicleta",
+    "autor": "Jonsteph93",
+    "link": "/",
+    "categoría": "Exteriores",
+    "dificultad": 3,
+    "descripcion": "Contenedor de objetos creado con tejas(PVC), bisagras de caja plástica y láminas de cielo raso(PVC) "
+  },
+  {
+    "id": "4",
+    "img": "https://content.instructables.com/ORIG/FY8/247O/IP9RB211/FY8247OIP9RB211.png?auto=webp&frame=1&crop=3:2&width=600&height=1024&fit=bounds&md=75a7ae406e34fd7c50fe31dd5dc3e27c",
+    "titulo": "HOMEMADE VR HEADSET USING HOUSEHOLD ITEMS",
+    "autor": "DIY ZE",
+    "link": "",
+    "categoría": "interiores",
+    "dificultad": 3,
+    "descripcion": "Hey, did you know that you can make a VR headset at home? And it is not gonna cost you a thing as all you need, you can probably find around your house. It super easy to make and anyone can do it. :)"
+  }
+]

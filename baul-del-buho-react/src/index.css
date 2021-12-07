@@ -113,7 +113,8 @@ footer a:hover {
 }
 
 .cards {
-  margin: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -121,4 +122,50 @@ footer a:hover {
   text-decoration: inherit;
   outline: inherit;
   color: inherit;
+}
+
+.images{
+  position: center;
+  padding: 10px;
+}
+
+.tarjeta_autor{
+  overflow: hidden;
+  margin:10px;
+  justify-content: center;
+}
+
+.estilo_autor{
+  text-align: right;
+  padding-top: 110px;
+  
+}
+
+.titulo{
+  color:#555454;
+  text-align: center;
+  margin: 20px;
+}
+
+.boton_pdf{
+  width: 150px;
+  height: 50px;
+  text-align: right;
+  position:relative ; left: 80%;
+
+}
+
+.icon_pdf{
+  color: red;
+}
+
+.contenedor_descripcion{
+  font-size: larger;
+  padding-left: 50px;
+  
+
+}
+
+.breadcrumb{
+  margin: 10px;
 }

@@ -53,9 +53,8 @@ export default class navbar extends React.Component {
               <NavItem>
                 <Button color="primary">
                   <FontAwesomeIcon icon={faSignInAlt}/>
-                   &nbsp;&nbsp;&nbsp;Iniciar Sesión
+                  <NavLink href="/login">Iniciar Sesión</NavLink>
                 </Button>
-                {/*<NavLink href="/">Iniciar Sesión</NavLink>*/}
               </NavItem>
 
               {/*<UncontrolledDropdown nav inNavbar>

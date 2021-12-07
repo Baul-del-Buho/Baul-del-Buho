@@ -8,7 +8,7 @@ import Navbar from './components/Navbar';
 import Footer from "./components/Footer";
 import Principal  from './Principal';
 import Proyectos from './Proyectos';
-import DetalleProyectos from './components/DetalleProyectos';
+import Login from './login/Login';
 
 function App () {
     return (
@@ -17,8 +17,8 @@ function App () {
 
             <Routes>
                 <Route path="/" element={<Principal />} />
-                <Route exact path="/proyectos" element={<Proyectos />} />
-                <Route exact path="/proyectos/:id" element={<DetalleProyectos />} />
+                <Route path="/proyectos" element={<Proyectos />} />
+                <Route path="/login" element={<Login />} />
             </Routes>
 
             <Footer />

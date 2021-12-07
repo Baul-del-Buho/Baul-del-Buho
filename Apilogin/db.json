@@ -1,0 +1,18 @@
+{
+    "usuarios":[
+        {
+        "id":1,
+        "nombre":"Daniel",
+        "apellido": "Bastidas",
+        "username":"danybas",
+        "password":"fcea920f7412b5da7be0cf42b8c93759"
+        },
+        {
+        "id":2,
+        "nombre":"user1",
+        "apellido": "user1",
+        "username":"user123",
+        "password":"01cfcd4f6b8770febfb40cb906715822"
+        }
+    ]
+}

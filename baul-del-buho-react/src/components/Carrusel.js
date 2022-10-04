@@ -12,19 +12,19 @@ const items = [
     id: 1,
     altText: "Slide 1",
     caption: "Slide 1",
-    src: "http://lorempixel.com/1279/720/"
+    src: "https://sm.ign.com/t/ign_latam/feature/w/what-the-c/what-the-comics-can-tell-us-about-scarlet-witchs-mcu-future_4ajg.1280.jpg"
   },
   {
     id: 2,
     altText: "Slide 2",
     caption: "Slide 2",
-    src: "http://lorempixel.com/1280/720/"
+    src: "https://sm.ign.com/t/ign_latam/feature/w/what-the-c/what-the-comics-can-tell-us-about-scarlet-witchs-mcu-future_4ajg.1280.jpg"
   },
   {
     id: 3,
     altText: "Slide 3",
     caption: "Slide 3",
-    src: "http://lorempixel.com/1281/720/"
+    src: "https://sm.ign.com/t/ign_latam/feature/w/what-the-c/what-the-comics-can-tell-us-about-scarlet-witchs-mcu-future_4ajg.1280.jpg"
   }
 ];
 export default function App() {

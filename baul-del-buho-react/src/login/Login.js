@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
 import md5 from 'md5';
-import Cookies from 'universal-cookie';
+//import Cookies from 'universal-cookie';
 
 const baseUrl="http://localhost:3001/usuarios";
-const cookies = new Cookies();
+//const cookies = new Cookies();
 
 class Login extends Component {
     state={
@@ -32,10 +32,10 @@ class Login extends Component {
         .then(response=>{
             if(response.length>0){
                 var respuesta=response[0];
-                cookies.set('id', respuesta.id, {path: "/"});
-                cookies.set('apellido', respuesta.apellido, {path: "/"});
-                cookies.set('nombre', respuesta.nombre, {path: "/"});
-                cookies.set('username', respuesta.username, {path: "/"});
+                //cookies.set('id', respuesta.id, {path: "/"});
+                //cookies.set('apellido', respuesta.apellido, {path: "/"});
+                // cookies.set('nombre', respuesta.nombre, {path: "/"});
+                // cookies.set('username', respuesta.username, {path: "/"});
                 alert(`Bienvenido ${respuesta.nombre} ${respuesta.apellido}`);
                 window.location.href="./proyectos";
             }else{
@@ -48,11 +48,11 @@ class Login extends Component {
 
     }
 
-    componentDidMount() {
-        if(cookies.get('username')){
-            window.location.href="./menu";
-        }
-    }
+    // //componentDidMount() {
+    //     if(cookies.get('username')){
+    //         window.location.href="./menu";
+    //     }
+    // }
     
 
     render() {

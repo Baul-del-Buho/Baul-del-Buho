@@ -13,7 +13,7 @@ import {
   //DropdownMenu,
   //DropdownItem
 } from 'reactstrap';
-import Logo from '../img/logo.png';
+import Logo from './../img/logo.png';
 import '../index.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 //Esta es para icono estaticos fa

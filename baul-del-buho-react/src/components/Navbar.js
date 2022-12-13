@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState } from 'react';
 import {
   Collapse,
   Navbar,
@@ -17,23 +17,22 @@ import Logo from './../img/logo.png';
 import '../index.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 //Esta es para icono estaticos fa
-import { faSignInAlt } from '@fortawesome/free-solid-svg-icons';
+import { faSignInAlt, faSearch } from '@fortawesome/free-solid-svg-icons';
 
-export default class navbar extends React.Component {
-  constructor(props) {
-    super(props);
-
-    this.toggle = this.toggle.bind(this);
-    this.state = {
-      isOpen: false
-    };
+const NavBar = ({busqueda, setBusqueda, modo, setModo}) => {
+  const [isOpen, setIsOpen] = useState(false);
+  const cambiarModo = () => {
+    if(modo === "dark"){
+      setModo("light");
+    }
+    if(modo === "light"){
+      setModo("dark");
+    }
   }
-  toggle() {
-    this.setState({
-      isOpen: !this.state.isOpen
-    });
+  const toggle = () => {
+    setIsOpen(!isOpen);
   }
-  render() {
+  
     return (
       <div className="navbar-class">
         <Navbar dark expand="md">
@@ -41,20 +40,34 @@ export default class navbar extends React.Component {
             <img src={Logo} alt="logo"/>
             <strong> Baúl del Búho</strong>
             </NavbarBrand>
-          <NavbarToggler onClick={this.toggle} />
-          <Collapse isOpen={this.state.isOpen} navbar>
+            <form action="" onSubmit={(e) => e.preventDefault()}>
+              <label htmlFor="searchInput"></label>
+              <input id="searchInput"
+                type="text"
+                placeholder='Buscar Proyectos'
+                value={busqueda}
+                onChange={(e) => setBusqueda(e.target.value)}
+              />
+              <button id="searchButton"><FontAwesomeIcon icon={faSearch}/></button>
+            </form>
+          <NavbarToggler onClick={toggle} />
+          <Collapse isOpen={isOpen} navbar>
             <Nav className="ms-auto" navbar>
               <NavItem>
                 <NavLink href="/proyectos">Proyectos</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/">¿Quienes somos? &nbsp; </NavLink>
+                <NavLink href="/nuevo">Nuevo Proyecto</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/">¿Quienes somos?</NavLink>
               </NavItem>
               <NavItem>
                 <Button color="primary">
                   <FontAwesomeIcon icon={faSignInAlt}/>
                   <NavLink href="/login">Iniciar Sesión</NavLink>
                 </Button>
+                <Button onClick={cambiarModo}>{modo==="light"? "Cambiar a modo oscuro": "Cambiar a modo claro" }</Button>
               </NavItem>
 
               {/*<UncontrolledDropdown nav inNavbar>
@@ -79,5 +92,7 @@ export default class navbar extends React.Component {
         </Navbar>
       </div>
     );
-  }
+  
 }
+
+export default NavBar;

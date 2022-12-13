@@ -138,3 +138,25 @@ margin: 30px auto;
 .containerSecundario{
   text-align: center;
 }
+main{
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+
+#main_img{
+  max-height: 300px;
+  width: auto;
+}
+
+.newProject{
+  align-items: center;
+  justify-content: space-between;
+}
+
+.new-project-input{
+  display: block;
+  width: 95%;
+  margin-bottom:30px;
+}

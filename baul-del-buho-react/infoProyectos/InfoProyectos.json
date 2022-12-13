@@ -1,0 +1,255 @@
+{
+  "proyectos": [
+    {
+      "id": "1",
+      "img": "https://modaellos.com//wp-content/uploads/2020/01/recetas-cremas-afeitar-600x399.jpg",
+      "img2": "./img/jabonAfeitar2pequeno.jpg",
+      "img3": "./img/jabonAfeitar3pequeno.png",
+      "imgprofile": "./img/imgprofile.png",
+      "titulo": "Como hacer jabón para afeitar",
+      "autor": "lesPtitesMain",
+      "parrafos": [
+        "¡Un método para crear fácil y rápidamente tu propio jabón de afeitar! ¡Una forma de afeitar ecológica, económica y agradable!",
+        "Tiempos estimados de preparación: alrededor de 15 minutos",
+        "Es un buen proyecto si ya tiene suministros para hacer jabón y quiere probar algo nuevo. ¡Pero también es muy fácil si nunca antes has hecho jabón! Puede servir como un regalo hecho a mano muy genial para el día del padre o como regalo de Navidad."
+      ],
+      "ingredientes": [
+        "100 gramos de jabón de glicerina",
+        "30 gramos de tensioactivo. Yo uso tensioactivo SCI, pero probablemente otros funcionen.",
+        "3 gramos de aceite de ricino",
+        "unas gotas perfumantes (opcional)",
+        "dos ollas para hacer un baño maría",
+        "espátula",
+        "medidor",
+        "receptáculo para su jabón de afeitar"
+      ],
+      "pasos": [
+        "1. Prepara y pesa los ingredientes: 100g de jabón de glicerina, 30g de tensioactivo, 3g de aceite de ricino",
+        "2. Prepara el baño Maria: Llena la mitad de la olla grande con agua. Coloque la olla pequeña para que flote en el agua. Enciende el fuego.",
+        "3. Derrite jabón de glicerina y surfactante y agrégalo a la olla: Espera al menos 10 minutos para que se convierta en una mezcla uniforme",
+        "4. Agrega el aceite de ricino: Mezcle hasta obtener una mezcla homogenea y retire del fuego.",
+        "5. Déjalo secar por un día y listo, ¡Ya tienes tu jabón casero!"
+      ]
+    },
+    {
+      "id": "2",
+      "img": "https://img.freepik.com/fotos-premium/arte-fluido-acrilico-flujo-libre-colores-amarillo-azul-crea-efecto-marmol-fondo-abstracto-o-textura_94255-2000.jpg?w=2000",
+      "img2": "./img/pintura2.jpg",
+      "img3": "./img/pintura3.jpg",
+      "imgprofile": "./img/imgprofile2.jpg",
+      "titulo": "Pintura de flujo libre",
+      "autor": "ZEA 2300",
+      "parrafos": [
+        "¡Esta es una forma única y divertida de pintar! Incluso si arruinas algo, todo lo que tienes que hacer es inclinar el lienzo [mientras aún está húmedo] y ¡puf! ¡está arreglado! Lo que más me gusta de esta pintura es cómo todos se verán diferentes, no importa cuántas veces lo hagas, ¡siempre será diferente y único!"
+      ],
+      "ingredientes": [
+        "Lienzo grande",
+        "1-2 estropajos metálicos",
+        "Al menos 5 colores diferentes de pintura.",
+        "Pintura negra",
+        "Pincel o cuchillo para pintar"
+      ],
+      "pasos": [
+        "1. Pintar el lienzo de negro: Vierta un poco de pintura negra en el lienzo y use el pincel o la espátula para esparcir la pintura negra por todo el lienzo. Cubre también los bordes del lienzo con pintura negra. No dejes que la pintura negra se seque.",
+        "2. Verter pintura sobre el estropajo metálico:Coloque los estropajos metalicos en el centro del lienzo. Vierta la pintura de diferentes colores. Trate de formar patrones de colores y cubra por todo el lienzo.",
+        "3. Haciendo un hermoso diseño: Su fregadora de metal comenzará a acumular un poco de pintura en el centro, así que recójala y deje que un poco de pintura gotee. Coloque el scubbie nuevamente en el centro e incline el lienzo en diferentes direcciones. La pintura goteará por los bordes del lienzo. Vuelva a recoger el estropajo y deje que la pintura gotee. Incline el lienzo un poco más, hasta que toda la pintura de color haya cubierto todas las partes negras.",
+        "4. ¡Tiempo de secado!: Coloque el lienzo en un lugar seguro durante 24-36 horas o hasta que esté completamente seco."
+      ]
+    },
+    {
+      "id": "3",
+      "img": "https://content.instructables.com/ORIG/FZV/O4MZ/KWOZ1CI6/FZVO4MZKWOZ1CI6.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=d45e9358ba0e86cf1549c6df50279f63",
+      "img2": "https://content.instructables.com/ORIG/F7U/QMY0/KWOZ1CI7/F7UQMY0KWOZ1CI7.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=a2385945f0e7771069560c0b598072a0",
+      "img3": "./img/pinturaespacio3.jpg",
+      "imgprofile": "./img/imgprofile3.jpg",
+      "titulo": "Pintura del espacio",
+      "autor": "ZEA 2300",
+      "parrafos": [
+        "Si hay algo que me encanta, son los ingeniosos efectos de pintura.",
+        "Recientemente, comencé a agregar acentos que brillan en la oscuridad a mis pinturas, particularmente las pinturas que cuelgan en las guarderías o las regalan a familias con niños pequeños, y ESPECIALMENTE las pinturas que involucran el espacio. ¡Tanto los niños como los adultos se sorprenden cuando ven el cuadro brillar después de que las luces se apagan por la noche!",
+        "Este instructivo lo guiará a través del proceso que utilicé para crear mi última pieza que brilla en la oscuridad, una escena de espacio simple en blanco y negro ... con un efecto especial y simple de brillo en la oscuridad agregado."
+      ],
+      "ingredientes": [
+        "Un lápiz para dibujar (no se muestra en la foto)",
+        "Una goma de borrar para dibujar (sin foto)",
+        "Bonito papel de arte (¡en la foto!)",
+        "Al menos 1 color de pintura acrílica (solo usé acrílico negro, no en la foto)",
+        "Pintura acrílica que brilla en la oscuridad (¡en la imagen!)",
+        "Pinceles de preferencia (sin imagen)",
+        "Luz negra (opcional; no se muestra en la imagen; ¡la hace fluorescente como la imagen del título!)"
+      ],
+      "pasos": [
+        "1. Dibuja tu escena espacial: toma tu bonito papel, tu fiel lápiz y tu mejor amigo, el borrador y dibuja tu escena. Usé un modelo de cohete que tenía por ahí para modelar mi cohete, ¡pero puedes dibujar el estilo que quieras! Creé profundidad en esta pintura agregando diferentes cosas espaciales. Planetas aquí, lunas allá. Asteroides, galaxias, etc. Agregarlos por todas partes y superponerlos ocasionalmente ayuda a crear gran parte del aspecto una vez que comenzamos a pintar. También agregué un sol brillante como una estrella en la esquina, para que el cohete se alejara. ¡Esto nos ayuda a darnos un punto de sombreado de iluminación como referencia cuando estamos pintando! Puedes condimentar estos detalles donde quieras.",
+        "2. Bloquear el negro: Con un pincel SECO, bloquee todas las áreas no bosquejadas de la pintura con pintura acrílica. Usé negro, pero cualquier color espacial puede funcionar. Recomiendo hacer todas las áreas negativas en esta pintura de un solo color oscuro, sólido. Esta foto se tomó parcialmente agregando los bloques de color al fondo: comencé con un pincel de 1 pulgada y cambié a un pincel de detalle más pequeño para obtener los bordes alrededor del cohete, los planetas, las lunas, etc., para poder tener bordes limpios y nítidos.",
+        "3. Sombreado y pequeños detalles: Ahora, con un pincel húmedo, use la pintura del mismo color para sombrear cuidadosamente todas las piezas espaciales individuales. Si tenía un sol en su imagen, esto lo hace fácil ya que tiene un gran punto de referencia de dónde proviene la iluminación. Dejé secar los detalles y volví una hora más tarde para agregar algunos más. Esto ayudó a evitar que cada capa de pintura se mezclara y permitió lograr un nivel increíble de profundidad y brillo con solo usar un color.",
+        "4. ¡Haz que brille !: Con un pincel SECO, repasa tu pintura y aplica brillo en la pintura oscura sobre las áreas más brillantes y sobre cualquier característica de espacio pequeño que quieras resaltar. Este es mi paso favorito y me gusta hacerlo en ráfagas, como el primer paso. Una hora más tarde, ¡quizás encuentres un nuevo planeta que quieras que brille! La primera imagen muestra la pintura a la luz con la pintura que brilla en la oscuridad en la parte superior; es prácticamente invisible, pero no del todo, en la iluminación de una habitación promedio. La segunda imagen lo muestra brillando en completa oscuridad, pero las cámaras nunca parecen capturar toda la gloria de las creaciones que brillan en la oscuridad. ¡Brilla mucho más en persona! ¡La tercera imagen muestra la pintura bajo luz negra! Esto revela todos los detalles de la pintura, incluido el sombreado, y los objetos espaciales más sutiles, como los asteroides que flotan mucho más allá del cohete. Como la pintura en sí es muy oscura, puede agregar algunos aspectos sorpresa que el área solo se revela cuando se apagan las luces. Para esta pintura, la galaxia inferior se vuelve MUCHO maldita, y puedes ver las llamas saliendo del cohete ... pero solo cuando las luces se apagan."
+      ]
+    },
+    {
+      "id": "4",
+      "img": "https://content.instructables.com/ORIG/FOI/E8T0/KWDJGP2A/FOIE8T0KWDJGP2A.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=221c2ce3ac8543500121e05121996563",
+      "img2": "./img/bonsai2.jpg",
+      "img3": "./img/bonsai3.jpg",
+      "imgprofile": "./img/imgprofile4.jpg",
+      "titulo": "Small Wire Bonsaï",
+      "autor": "JusteCettefois",
+      "parrafos": [
+        "A bonsaï is a tiny tree, so a tiny bonsaï is a tiny double-whammy.",
+        "My Mother used to have a small wire Baobab tree sculpture. Having bought too much metal wiring and having a free afternoon I decided to see if I could recreate something similar.",
+        "I wanted to make mine a bit more personal. A more tortuous trunk with twisting and turning branches and roots as if they were floating in the air.",
+        "The result did not entirely live up to my expectation, but still looks quite nice."
+      ],
+      "ingredientes": [
+        "Some generic metal wire spool from my local dollar store",
+        "An blue glass marble as a base",
+        "A needle nose pliers for details",
+        "Two regular pliers for twisting the wires together",
+        "Wire cutter"
+      ],
+      "pasos": [
+        "1. PREPARING THE WIRE LENGHTS: After quick 1:1 sized sketch, I estimated the necessary lenght of wire. I'd need long strands so that I could bend them tortuously, and only 10 or so separate branches. For reference, I cut a dozen strands at around 35cm (13.7in) and ended up with a 10cm (3.9in) tall tree. How many and how much wire YOUwill need will obliviously vary from tree to tree. Rather than trying to follow my instruction to a T, I actually encourage you to experiment with as many shape as you'd like. Try to see what you can do !",
+        "2. FORMING THE TRUNK: I then gathered the cut wires and tied them together at a quarter of their length. The longer side would form the tree itself, the rest would become the roots. Gripping the wire with the pliers and twisting themwith the second, I keeped turning them into place until they felt nice and secured.",
+        "3. SHAPING THE TRUNK: With a fitting length of twisted trunk, I shaped the metal into a more pleasing shape similar to my preliminary sketch. I'd like to share that I found it easier to overbend the tree a little and then bend it back into place. It seemed to hold its shape better afterward.",
+        "4. BRANCHING OUT: Once the base trunk was fully formed I started to separate the wire into separate groups of branches and twisting them separately. I settled onto 3, 4, 3 and 2. And further split them into 1+2, 1+3, 1+2, 1+1 and even further into 1+1+1,1+2+1 etc... Once again, this will vary from person to person. Furthermore, not all branches needs to separated at the same time. For instance, you could isolate a 3 from the rest and keep the rest of trunk together to form a low branch.",
+        "5. SHAPING THE BRANCHES: I then reshaped the branches into proper shape using needle nose pliers. When sculpting them I found useful to keep in mind that trees are 3 dimensionals and that branches can really spread out a lot if that makes any sense to you.",
+        "6. ADDING LEAVES: And finally I twisted the remaining individual wire into a leaves shape. I opted to keep the leaves horizontally flat, tortuous and deliberately long. How you decide to shape those leaves will play a major role on how your finished product will look. I've seen some coiling them like snails or even omiting them entirely.",
+        "7. ADDING LEAVES 2: I left some bits straight and pointed them directly downward, similar to the way aerial roots or vines hang off branches.",
+        "8. TAKING ROOT: Now that the tree itself is done, It is time to form the roots. Simply repeat the same steps but upside down. Spread the roots into groups, twisted them together, split them again, and then reshape to your liking.",
+        "9. RE-SHAPING THE ROOTS: You'll note that the tree stands fine on its own and is actually quite elegant this way. If you don't want to add a base then you can just leave the tree as is. If you do want to add a base, then it's a good idea to group the roots tightly together. The wire tends to bend back to its previous shape. If said shape was a tight claw, the roots will tend to grip the base; if it was a flat plane, they will loosen themselves.",
+        "10. ADD A BASE: Simply bend the roots back to fit around your base. In my case the marble was small enough to simply pop-in. In the case of a larger base, such as a large flat piece of drift wood, you would need to anticipate and use longer roots to wrap around and properly secure the tree in place. Or just use some glue, that works too.",
+        "11. That's all!"
+      ]
+    },
+    {
+      "id": "5",
+      "img": "https://content.instructables.com/ORIG/FFB/BYOL/KWGEDUGE/FFBBYOLKWGEDUGE.jpg?auto=webp&crop=1.2%3A1&frame=1&width=270",
+      "img2": "./img/dibujo2.jpg",
+      "img3": "./img/dibujo3.jpg",
+      "imgprofile": "./img/imgprofile5.jpg",
+      "titulo": "How to Draw Rashino From Fire Untamed",
+      "autor": "Fosborne",
+      "parrafos": [
+        "This instructable project is how to simply draw one of my characters named Rashino. Rashino is a character that I came up with. He, along with other characters of mine, are apart of a group I call the Fire Untamed.",
+        "Since I like to draw, I wanted to do an instructable on drawing something. I decided I'd do one of my Fire Untamed characters, so here is the instructable.",
+        "Note:",
+        "Rashino is pronounced Ra-she-no."
+      ],
+      "ingredientes": [
+        "A pencil",
+        "An eraser (this is kind of optional, considering pencils have erasers on the end)",
+        "Blank paper"
+      ],
+      "pasos": [
+        "1. Drawing the Head and Neck: Start by drawing a circle, like in picture one. Draw it lightly, you will erase it soon. Then, draw to vertical (slightly slanted) lines as the sides of the head, like in picture two. Now draw two lines to make the chin line, like in picture three. Drawing lightly, round the top of the head, then erase the circle you drew earlier. For the neck, start by two outward curving lines, like in picture six. Then draw a few light lines on the sides, (see picture seven) and blend those lines in with your finger. Draw a line for the shirt collar.",
+        "2. Drawing His Shirt and Hoodie: For the hoodie, draw two lines that extend from close to the top of the neck, like in picture one. Draw small lines going downward like in picture two. Because Rashino wears his hood open, draw two long lines down, like in picture three. Copy the lines I drew in picture four. For the shirt collar, draw another line parallel to the line you already have as the collar, then draw lines in the middle, like in picture six. Draw the shoulders like I did in picture seven.",
+        "3. Drawing the Logo on His Shirt:The logo on Rashino's shirt is the Fire Untamed logo. To draw this, draw to lines down the middle of his shirt like in picture one. lightly draw a circle, then draw another inside like in pictures two and three. Erase and darken some of the like in pictures four and five. Shade the small circle and the outside of the bigger circle. (see picture six) Draw the arms further down. (see picture six)",
+        "4. Drawing His Eyes: As a guide, draw to lines that intersect in the middle. Then for the eye that is closed, draw a line that is curved upward, on the right side of his face. (or left?) Copy pictures three to seven for the other eye. Draw a line through the middle of the open eye the draw two lines down close to one side of the eye. Shade in the lower half of the eye, leaving the space between the two lines white. Then shade in the top half very black. Erase the line guide that goes through the eyes.",
+        "5. Drawing His Nose, Mouth and Eyebrows: Draw a small dot for a nose. Draw a mouth like the one in picture two. Erase the line guide that goes down the face. Draw eyebrows like mine in pictures three to five.",
+        "6. Hair Time! Drawing Rashino's Bangs: Carefully copy all the bangs like I have in the pictures. The first bang drops down between his eyes, the second lays over his eyebrow, the third one's tip lays over his other eyebrow, the fourth bang covers then end of his eyebrow, etc.",
+        "7. Drawing Top of His Hair: Carefully copy the top of his hair like I have in the pictures.",
+        "8. Coloring in His Hair: ",
+        "9. Shade in the tips of his bangs, then the top, then shade in the middle. Blend in the middle, then erase across the his head like in picture six. darken in the lines that got erased and blend over the erased area.",
+        "That's it! You're done"
+      ]
+    },
+    {
+      "id": "6",
+      "img": "https://content.instructables.com/ORIG/FK6/DQJT/KWKOPFOV/FK6DQJTKWKOPFOV.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=3857858aa5bbdde0bd3d91ca05b8ed8c",
+      "img2": "https://content.instructables.com/ORIG/F1U/4Z4H/KWKOPF7C/F1U4Z4HKWKOPF7C.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=21ce000837d265f9ddc66ea92957e128",
+      "img3": "./img/arbol3.jpg",
+      "imgprofile": "./img/imgprofile6.jpg",
+      "titulo": "Mini Beaded Star Ornaments",
+      "autor": "wylop",
+      "parrafos": [
+        "Miniature bottle brush Christmas trees are all the rage but mini beaded star ornaments are impossible to find. The smallest ones I've found are between 1 and 2 inches which means they are way too big for my mini bottle brush trees. Follow along (with your reading glasses and a bright light...if you're old-ish like me, lol) to make some super fun mini beaded star ornaments."
+      ],
+      "ingredientes": [
+        "1 beading needle",
+        "1 spool of thread (any color you want...I used white)",
+        "Seed Beads (any color you want)",
+        "Scissors"
+      ],
+      "pasos": [
+        "1. Cut Thread & String Beads: Cut a piece of thread 13 inches in length. Thread your needle. String 10 seed beads onto the thread and pull them to the end of the thread about 1 inch from the end.",
+        "2. Tie/secure the Thread: Tie the beads into a circle by knotting the thread like as shown in the pictures. Cut off the short end of the thread.",
+        "3. Start the Beading: Insert your needle into the bead closest to where the thread is tied. Add 2 beads to your needle and slide them down the thread. Skip 1 bead and insert your needle into the next bead. Repeat 4 more times to complete the circle.",
+        "4. Finish the Beading: Insert your needle into the first bead on the top row (or outer circle that you just created). Add 1 bead and insert your needle into the next top bead. Insert your needle into the bead in the middle of the two rows in the inner circle. Insert your needle into the next top bead and repeat this process 4 more times. When you are finished, tie off the thread and cut the end.",
+        "5. Add a Hanger: Insert the needle with a small length of thread (maybe 3 inches) into one of the beads at one of the top points. Pull thread through and tie a knot. Cut the ends and hang on your mini tree. Oh, and don't forget to make lots more!!",
+        "6. Final Completed Stars: Congrats! You've completed a mini beaded star ornament! Make more and more and decorate to your heart's desire! Let me know what you think in the comments below! If you have questions I'm happy to answer them! What mini ornaments have you made? I would love to see other creations in the comments below.",
+        "That's it! You're done"
+      ]
+    },
+    {
+      "id": "7",
+      "img": "https://content.instructables.com/ORIG/FNE/WC94/KVS3XKKB/FNEWC94KVS3XKKB.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=486f9be56ce90c64c6e08fd85159a120",
+      "img2": "https://content.instructables.com/ORIG/FHI/IHV7/KVS3XK7W/FHIIHV7KVS3XK7W.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=5913a6af2ad5f3f0534ef1ad5692ae19",
+      "img3": "./img/lapicero3.jpg",
+      "imgprofile": "./img/imgprofile7.jpeg",
+      "titulo": "How to Make Wooden Pens",
+      "autor": "enmalm01",
+      "parrafos": [
+        "To begin gather all your materials. It is best if you order pen kits that come with pen accessories."
+      ],
+      "ingredientes": [
+        "7mm pen mandrel",
+        "Set of Slimline bushings",
+        "7mm drill bit",
+        "2 brass tubes per pen",
+        "CA (cyanoacrylate) glue or two-part-fast-drying epoxy",
+        "Two pen blanks per pen",
+        "Pen press, vise, clamp, or jig",
+        "#80 and 400 grit sanding supplies and finish",
+        "Drill press",
+        "Bandsaw",
+        "Lathe",
+        "Safety Glasses/Face Shield",
+        "Ruler and a Pencil",
+        "Gloves",
+        "6mm trimming bit",
+        "1 woodturning lathe carbide (or steel) tipped finisher tool",
+        "Wiping Cloth",
+        "Friction based finish"
+      ],
+      "pasos": [
+        "1. Picking, Measuring, and Cutting Blanks: Obtain your 3/4 inches by 3/4 inches piece of wood that you would like to use for your pen. You will need to have two blanks cut that is 2 1/4 inches long for each pen. Once you have marked your pen and it is ready to be cut you can head to the bandsaw. Try to follow the measured line as best as possible however if it comes out to me a little shorter/longer if won't be a big deal. When operating machinery don't forget to wear safety glasses and later on in pen making you will also want to wear a face shield.",
+        "2. Marking Center and Drilling Blanks: Mark the ends of your blanks with a center point. You can do this by using a rule and lining it up with diagonal corners and drawing a line. After this, you can drill your holes. You will need a drill press, a 7mm drill bit, and either a jig or sturdy clamps. Line up the bit with the center point of your wood and slowly start to drill the hole. Don't drill the hole all in one go. Drill a little and then bring the bit up, drill some more and bring it up, and then drill all the way through. Repeat this for the second blank.",
+        "3. Gluing Blanks to Tubes: Now from your pen kit grab two brass tubes, glue, and 80 grit sandpaper. Start out by sanding your brass tubes. Then put on gloves and add a small amount of glue to the surface of the tube and then quickly insert it in the hole of the blank. Let the glue dry for 24 hours before moving forward.",
+        "4. Trimming the Blanks to Length: Using a drill press and the trimming bit trim the excess wood and the wood should be flush with the brass tubes on each end. This will also scrap out any excess glue on the inside. If you don't have this bit you can sand the blanks with a belt or disc sander and scrap the glue out by hand but the first method is highly recommended.",
+        "5. Mandrel Preparation: Gather mandrels, bushings, rivet heads, and wood blanks. Place the materials on the mandrel in the correct order (as seen in picture two ).",
+        "6. Turning the Blanks: Insert the mandrel into the lathe. Place your tool rest parallel and as close as possible to the blank, making sure the blank does not touch the tool rest. Use a turning speed of about 1,000 RPM. Turn the blanks to a diameter that is slightly larger than the bushing. From here you can turn the blank to your desired design and diameter.",
+        "7. Sanding and Finishing: Sand your blanks using a fine (400) grit sandpaper until smooth. Wipe excess sawdust off with a rag. Using a wiping cloth (optional: you can cut it into about 3 inches wide strips) and friction-based finish rub the cloth back and forth on the blanks as the lathe is in motion. Do you this 3-5 coats. It's recommended to be wearing gloves during this process. Let dry overnight.",
+        "8. Pen Assembly: Using the image above assemble your pen using a table clamp vise. First press pen clip/cap (1/5) into the upper barrel (3). Press the tip (7) into the lower barrel (6). Insert the pen twist mechanism (8) threaded end out into the lower barrel (6) until the indent on the twist mechanism is just covered. Then slide the brass ring (4) on the pen mechanism until it touches the lower barrel (6). Insert and screw the ink refill (2) into the pen mechanism. Before going any further make sure the pen tip is long enough to write when the ink refill is completely screwed in but disappears when you retract the pen. Lastly, press the upper barrel (3) on the pen mechanism until it touches the brass ring (4). Congrats you have completed your pen!!!"
+      ]
+    },
+    {
+      "id": "8",
+      "img": "https://content.instructables.com/ORIG/FPF/2050/ID0PSTM9/FPF2050ID0PSTM9.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=bec8bde96da01e9420586060831c52e2",
+      "titulo": "How to Build a Simple Water Rocket",
+      "autor": "RaketfuedRockets",
+      "parrafos": [
+        "Welcome to this instructable!\nWhether for a school project or just for fun, building and launching your own water rocket is a challenging but awesome experience. In this tutorial we’ll show you how to get started and how to build your own, simple water rocket.\n\nBill of materials:\n\nIf you want, you can download a bill of material as a PDF from our Website:\n\nBill of materials [PDF]\n\nNote:\n\nIf this is to easy for you, you can check out our tutorial about building a two meter large water rocket as well:\n\nInstructables.com: How to build a huge water rocket"
+      ],
+      "ingredientes": [
+        "Air pump\n2 bottles of water\na sheet of plywood\na water hose"
+      ],
+      "pasos": [
+        "Step 1: Introduction to Water Rocketry:\nIntroduction to Water Rocketry:\n\nA water rocket is basically just a pressure vessel, filled with air and water. When you launch the rocket, the water is forced out of the vessel by the air pressure, and it accelerates the rocket in the opposite direction. But besides a bottle, which is used as the pressure vessel, you’ll need to make a safe and secure launcher too. In this case, we’ll use garden hose connectors for the launcher, because they’re water-proof and easy to release.\nStep 2: The Launch Pad:\nThe Launch Pad:\n\nYou’ll need a ½“ garden hose, which should be as long as possible. Attach a car tire valve at one end of the hose. You may have to file off a part of the valve, which will then allow you to push it into the hose. You can then secure it with a clamp. Attach the garden hose coupling at the other end of the hose. We’ll add a tap nut adaptor to the rocket later, and if we put this adaptor into the coupling we have our launcher mechanism.\n\nIf you want to have a good launcher, you’ll need a stand for your garden hose system. You can use whatever water proof materials you want for the stand, but if you want to keep it simple, just use four wooden planks like this. It’s very important that you secure the launcher to the ground so it doesn’t tip over. The stand will need to have a 16mm hole for the garden hose, and a 35mm hole for the coupling. Now you can push the hose through the small hole, and glue the coupling into the hole using a hot glue gun.\nStep 3: The Nozzle:\nThe Nozzle:\n\nNow it’s time to start with the construction of the nozzle, which is the adaptor between the rocket and the launch pad. Just drill a hole into a bottle cap, and increase the diameter to 14mm. Remove the seal from a 1“ tap nut adaptor, and glue the bottle cap into it using epoxy resin. Let the nozzle cure for at least 48 hours.\nStep 4: Rocket and Fins:\nRocket and Fins:\n\nBut what about the rocket itself?\nYou will need a stable and thick-walled plastic bottle, to make up the body of the rocket. You just have to add some fins, made of thin, stiff and lightweight wooden or plastic materials. In this case, we’re using \"Guttagliss Hobbycolor\". Feel free to try different fin shapes, but if you want you can download our fin templates from our website as well:\n\nDownload fin templates [PDF]\n\nUse a cutter to cut out the fins, and attach them to the rocket using a hot glue gun.\n\nBut be careful: Don’t wait until the glue is so hot, that it melts the plastic of the bottle.\n\nWe also suggest securing them further with pieces of duct tape.\nStep 5: Parachute Mechanism:\nParachute Mechanism:\n\nIf you want, you can build a parachute mechanism for your rocket as well. This is not necessary for a rocket of this size, but it’s great because it allows you attach a small camera to the rocket.\n\nJust click here and watch the 4th part of our tutorial about building a huge water rocket, if you’re interested:\n\nVideo: How to build a huge water rocket [4/5] - Parachute mechanism\n\nNote: For your rocket, you should use a smaller parachute than shown in this tutorial. If you prefer not to use a parachute system, that’s fine too! Just use a half tennis ball as the nosecone, and glue it in place using a hot glue gun.\nStep 6: Final Steps:\nFinal Steps:\n\nAfter the nozzle has cured for 48 hours, you can screw it onto your rocket.\n\nThe only missing part is the release mechanism. Just attach two nylon strings to the coupling with a cable tie and divert them horizontally with a rod. The coupling’s collar will open as soon as you pull the strings.\nStep 7: Launch:\nLaunch:\n\nNow your rocket is ready to launch. Choose a launch site, which is far away from houses, streets, trees and power lines. Secure your launcher to the ground, and attach your air pump to the hose system. Fill the rocket 1/3 full of water, and put the rocket onto your launch pad. You should raise a part of the hose above the water line in the rocket to stop water flowing back into the pump.\n\nAll you have to do now is build up the pressure with your air pump. Please be carefull, and always wear safety goggles. Don’t try to use too much pressure, 80 psi is enough for your first try. You can use more pressure later, but always be aware that the bottle can explode.\n\nAs soon as you have enough pressure, just pull the string and the rocket will launch.\n\nWe wish you much success in building your own water rocket. If you have any questions, please feel free to ask in the comments section below.\n\nYour Raketfued-Team"
+      ]
+    },
+    {
+      "id": "81",
+      "img": "https://content.instructables.com/ORIG/FR2/EF3U/ID0PSVF1/FR2EF3UID0PSVF1.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=45f22199c9c6ef950bd2a02840f53e2b",
+      "titulo": "aiuodu",
+      "autor": "ifofssgp",
+      "parrafos": [
+        "dfdf9jefjefd9 ajdkjajfpej09ifjkek dijfik s;liajfdiaiuj a aidijf f iefe sois sjsoijfdi aia a hj a  dsiduwkkeiwdo0wnjdnkdnsncbc suid8 888 siis  ididfiwid9 ss8ds8s   dshdjshd"
+      ],
+      "ingredientes": [
+        "difidfpod\nodpfdpoif\ndofpdsofdsopd\npspsdifiusfdo\ndsfposifpis\npfdposiispjfd"
+      ],
+      "pasos": [
+        "jijoifjoidsu\ndid9d98s pcpd9i s \nkidockjdsocsoc"
+      ]
+    }
+  ]
+}
